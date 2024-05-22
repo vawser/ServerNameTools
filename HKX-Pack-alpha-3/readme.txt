@@ -15,3 +15,4 @@ When unpacking behavior files from previous versions of hkxpack hkbManualSelecto
 # Credits
 #----------------------------------------
 The12thAvenger
+katalash
